@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "境目",
+  "base_artist": "Kawasaki.Rio",
+  "createdAt": "2025-12-16T08:05:44.752577Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "境目",
+      "artist": "Kawasaki.Rio",
+      "has_synced": false,
+      "path": "select/pl_01_境目_Kawasaki.Rio.txt"
+    }
+  ]
+}
